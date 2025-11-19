@@ -20,7 +20,9 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 **[Batching Plant System]** https://github.com/sinfu98android/Orchestrix_BatchingPlant
 
 ### For full system details, diagrams, and architecture, read the  
-[📄 Orchestrix Technical Documentation (PDF)]https://github.com/sinfu98android/Orchestrix_main_framework/blob/66c5d8b0440f22ddd453a19fe0e4725532956b76/Orchestrix%20PHP%20Java%20(Web)_20251119_133539_0000.pdf 
+md
+
+[📄 Orchestrix Technical Documentation (PDF)](https://github.com/sinfu98android/Orchestrix_main_framework/blob/66c5d8b0440f22ddd453a19fe0e4725532956b76/Orchestrix%20PHP%20Java%20(Web)_20251119_133539_0000.pdf)
 <br>
 Note : Github Sometimes cannot preview PDF file directly, please download to view.
 
