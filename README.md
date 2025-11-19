@@ -1,4 +1,4 @@
-This repository includes Orchestrix framework code base<br>
+This repository contains Orchestrix framework source code<br>
 
 # Orchestrix
 
