@@ -15,7 +15,7 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 Modified memcached in block mode, it make ligher, now can run on transmeta tm5700, 1 core x86 800MHz
 
 ### 🎥 You can watch Orchestrix Lightweight Demo 
-[Demo Orchestrix](https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns)
+[Demo Orchestrix video](https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns)
 
 
 ### 📘 For full system details, diagrams, and architecture, read the  
@@ -25,5 +25,5 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 
 
 ### 🔗 Projects Built Using Orchestrix
-[Batching Plant System](https://github.com/sinfu98android/Orchestrix_BatchingPlant)
+[Batching Plant System link](https://github.com/sinfu98android/Orchestrix_BatchingPlant)
 
