@@ -7,7 +7,7 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 ### ❗ This repository contains Orchestrix framework source code <br>
 
 
-### Key Features
+### 🔑 Key Features
 
 - ⚡ Fast and lightweight
 - 🧱 Modular and scalable architecture
