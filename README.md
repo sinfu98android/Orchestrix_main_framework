@@ -1,6 +1,6 @@
 # Orchestrix
 
-Orchestrix is a lightweight, modular orchestration framework designed for real-time system integration. It is minimal in dependencies, highly scalable, and built with flexibility in mind.
+Orchestrix is a lightweight, modular orchestration framework designed for real-time system integration. It is minimal in dependencies, highly scalable, and built with flexibility in mind. **I designed and built entirely from scratch.**
 
 ## Key Features
 
