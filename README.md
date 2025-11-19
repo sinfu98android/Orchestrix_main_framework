@@ -16,3 +16,7 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 
 🎥 You can watch Orchestrix Lightweight Demo here -- https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns
 
+## Projects Built Using Orchestrix
+**[Batching Plant System]** https://github.com/sinfu98android/Orchestrix_BatchingPlant
+
+
